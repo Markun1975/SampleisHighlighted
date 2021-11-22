@@ -16,6 +16,7 @@
 		F4423B372743E859007BB442 /* SampleisHighlightedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4423B362743E859007BB442 /* SampleisHighlightedTests.swift */; };
 		F4423B412743E859007BB442 /* SampleisHighlightedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4423B402743E859007BB442 /* SampleisHighlightedUITests.swift */; };
 		F4423B432743E85A007BB442 /* SampleisHighlightedUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4423B422743E85A007BB442 /* SampleisHighlightedUITestsLaunchTests.swift */; };
+		F4423B502743ED22007BB442 /* SampleCustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4423B4F2743ED22007BB442 /* SampleCustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F4423B3C2743E859007BB442 /* SampleisHighlightedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleisHighlightedUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4423B402743E859007BB442 /* SampleisHighlightedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleisHighlightedUITests.swift; sourceTree = "<group>"; };
 		F4423B422743E85A007BB442 /* SampleisHighlightedUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleisHighlightedUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F4423B4F2743ED22007BB442 /* SampleCustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F4423B282743E859007BB442 /* Assets.xcassets */,
 				F4423B2A2743E859007BB442 /* LaunchScreen.storyboard */,
 				F4423B2D2743E859007BB442 /* Info.plist */,
+				F4423B4F2743ED22007BB442 /* SampleCustomButton.swift */,
 			);
 			path = SampleisHighlighted;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4423B502743ED22007BB442 /* SampleCustomButton.swift in Sources */,
 				F4423B242743E858007BB442 /* ViewController.swift in Sources */,
 				F4423B202743E858007BB442 /* AppDelegate.swift in Sources */,
 				F4423B222743E858007BB442 /* SceneDelegate.swift in Sources */,
